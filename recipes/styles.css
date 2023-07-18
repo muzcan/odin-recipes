@@ -1,0 +1,17 @@
+.subpages{
+    height:auto;
+    width: 500px;
+}
+h1,h2,h3,h4{
+    color:black;
+    font-family:"Times New Roman", "Brush Script MT", serif;
+    font-size:40px;
+}
+h2,h3,h4{
+    font-size:30px;
+}
+p,ul,ol{
+    color:black;
+    font-family:"Georgia";
+    font-size:18px;
+}
